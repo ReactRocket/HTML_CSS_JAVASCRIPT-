@@ -1,6 +1,3 @@
-// Javascript execute the code synchronously from top to bottom of the script.
-
-
 
 // Topic:-  {let ,const , var , without using any keyword}
 
